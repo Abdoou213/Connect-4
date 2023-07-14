@@ -17,3 +17,10 @@ This repository contains a Connect 4 game implementation in Javascript. Connect 
 4. The game provides an option for players to undo their previous move.
 5. The game offers a customizable grid size for an extended version of Connect 4.
 6. The game has a user-friendly interface and error handling for invalid inputs.
+
+   
+### Acknowledgements
+This game is based on the classic Connect 4 concept and Kenny Yip coding connect 4 tutorial.
+
+### License
+  This COnnect 4 Game is open-source and released under the MIT License. Feel free to modify and distribute the code as per the terms of the license.
